@@ -1,7 +1,7 @@
 ### Hello! Eu sou a Jaque 👋😊
 
 
-- 🌱 Estudando HTML, CSS, Javascript, PHP, Python
+- 🌱 Estudando HTML, CSS, Javascript, PHP, Python, Typescript, React Native
 - 😄 Pronouns: ela/dela
 
 ##
@@ -17,6 +17,8 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="React Native" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 </div>
   
   ##
