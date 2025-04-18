@@ -1,7 +1,7 @@
 ### Hello! Eu sou a Jaque 👋😊
 
 
-- 🌱 Estudando HTML, CSS, Javascript, PHP, Python, Typescript, React Native, Flutter
+- 🌱 HTML, CSS, Javascript, PHP, Python, React Native, Flutter
 - 😄 Pronouns: ela/dela
 
 ##
